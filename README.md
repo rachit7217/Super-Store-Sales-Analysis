@@ -1,4 +1,5 @@
 # Super-Store-Sales-Analysis
+![logo](https://github.com/rachit7217/Super-Store-Sales-Analysis/blob/main/Dashboard%203%20superstore%20sales%20%20.png)
 Creating a Power BI project for "Super Store Sales Analysis" involves several key features and components, integrating Excel, SQL, and Power BI effectively. Here’s a concise overview:
 
 1. **Data Source Integration**: Use SQL to extract data from the "Super Store" database, including sales, inventory, customer, and supplier tables. Import this data into Power BI for analysis.
